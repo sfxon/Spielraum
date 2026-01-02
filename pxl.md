@@ -2,18 +2,18 @@
 
 Mit dem Label *Pxl* verstehe ich Kunstwerke, die Pixelart in den realen Raum zurückbringen.
 
-Nach vielen Jahren digitalen Schaffens, insbesondere im Bereich Code, hat mich das Gefühl, nichts erschaffen zu haben, doch stark getroffen. Jede Art von Programmierung oder umgesetzten System ist einer stark begrenzten Lebensdauer unterlegen. Entitäten und Schnittstellen, die mir vor Jahren in der Entwicklung als ewig lebend vorkamen, sind verschwudnen, Firmen wurden verkauft oder aufgelöst, Projekte neu aufgesetzt oder aufgebeben. Geblieben ist eine gewisse Leere.
+Nach vielen Jahren digitalen Schaffens, insbesondere im Bereich Programmierung, hat mich das Gefühl Nichts erschaffen zu haben doch stark getroffen. Jede Programmierung, jedes umgesetzte System ist einer stark begrenzten Lebensdauer unterlegen. Entitäten und Schnittstellen, die mir vor Jahren während der Entwicklung als zukünftig ewig lebend vorkamen, sind verschwunden, Firmen wurden verkauft oder aufgelöst, Projekte neuaufgesetzt oder aufgebeben. Geblieben ist eine gewisse Leere.
 
-*Pxl* ist eine Antwort darauf. Statt die Welt ins digitale zu verschieben, ziehe ich das digitale aus der virtuellen Welt heraus in unsere physische Realität. Kein einfaches Abschalten mehr, kein schnell weggeklicktes Element, sondern ein echtes Element, dessen Entferung einen Aufwand bedeutet, ein notwendiges verschieben. Ein bleibender Ruhepol - im oder am Raum platziert - zum Zurückkehren, zum ruhigen Betrachten und zum Loftholen.
+*Pxl* ist meine Antwort darauf. Statt die Welt ins digitale zu verschieben, ziehe ich das Digitale aus der virtuellen Welt heraus in unsere physische Realität. Kein einfaches Abschalten mehr, kein schnell weggeklicktes Element, sondern ein berühbares Werk, dessen Entferung einen Aufwand, ein Verschieben oder Zerstören benötigt, um es endgültig aufzulösen. Gleichzeitige möchte ich bleibende Ruhepole schaffen, die sich im oder am Raum platzieren lassen - die einfach da sind, zu denen man zurückkehren kann um sie im Ruhigen zu betrachten, um Loftholen zu können.
 
 ## Materialien
 
 Aktuell arbeite ich an einer Auswahl geeigneter Materialien.
-Als sehr tauglich hat sich ein **Edding 751 creative** in **Goldfarbe** herausgestellt.
-Allerdings wirken gegen diesen andere Materialien sehr blass. Insbesondere der Glanz-Effekt trägt dazu bei.
+Als sehr tauglich für kleine Werke und Konzepte hat sich ein **Edding 751 creative** in **Goldfarbe** herausgestellt. Allerdings ist der sehr schnell verbraucht.
+Außerdem wirken gegen Diesen andere Materialien sehr blass. Insbesondere der Glanz-Effekt dieses Stiftes im Gegenlicht trägt stark dazu bei.
 Ich versuche dem mit folgenden Techniken entgegenzuwirken:
 
-* **Weiter Edding 751**: es gibt weitere Farben dieser Glanzstifte - ich werde testen, ob diese gut funktionieren und harmonieren.
+* **Weitere Edding 751**: es gibt weitere Farben dieser Glanzstifte - ich werde testen, ob diese gut miteinander funktionieren und harmonieren. Ich kann mir aber vorstellen, dass man mehr Kontraste im Glanz benötigt.
 * **Samtfarben**: Aus der Idee von Samttapeten entstanden. Das wäre ein Frage für den Fachhandel oder eine KI.
 * **Samttapeten**: Während meiner Ausbildung bin ich mit Samt-Tapeten in Berührung gekommen. Insbesondere ein dunkles Royalblau mit silbernen hat bleibenden Eindruck hinterlassen.
 * **Samtstoffe**: Eine Alternative zu den Tapeten könnten entsprechende Stoffe sein.
