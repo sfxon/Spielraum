@@ -50,4 +50,18 @@ Sollten deutlich Raum einnehmen. Mit gut geeigneten Größen ist sich er noch zu
 Ich setze mir hier keine Grenzen. Alles kann verwendet werden. Zu Beginn werden es hauptsächlich bekannte Charactäre und Motive aus Video-Spielen sein. Da ich keine finanziellen Interessen hiermit verfolge, besteht zwar die Gefahr eines Copyright Claims. Wir werden sehen, wie damit umzugehen ist. Ich bin der festen Überzeugung: Schaffenskunst darf adaptieren und nachahmen, so lang man auf die Herkunft eines Fremd-Motives verweist.
 
 
+## Erkenntnisse
+
+<img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:udyq2i4s5yl623p3tw6p6avz/bafkreich5utvdkh2tnjsiw4ckfvue63f3sjs7bxx7ku6runapvfdne37ju@jpeg" alt="Giana, 02.01.2026" style="max-width: 100px" />
+
+* Da ich mit der linken Hand zeichne: Rechts oben beginnen -> Verwischen vermeiden.
+* Immer einige Blätter unter die Zeichenhand unterlegen -> Fettflecken vermeiden.#
+* Immer Stifte und Farben aus der selben Charge verwenden. Man sieht hier auf der rechten Seite einen glänzenden Bereich, der durch Nachkauf eines Stiftes entstanden ist.
+* Flächen immer mit der gleichen Technik füllen -> im roten Bereich sieht man einen Versuch, das ganze zu beschleunigen. Das sieht unschön aus.
+
+* Glanzlack-Farben haben sich bewährt. Das Werk wirkt dadurch hochwertiger und lebendiger.
+* Neon-Farben wie bspw. Textmarker können hilfreich sein.
+
+
+
 
